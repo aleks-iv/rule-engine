@@ -1,0 +1,16 @@
+f_In_N is high;sat_f_Out_N is high;>;sat_f_Maneuver_backward = 1;sat_f_Out_N = -1
+f_In_N is high;sat_f_Out_E is high;>;sat_f_Maneuver_left = 1;sat_f_Out_E = -1
+f_In_N is high;sat_f_Out_S is high;>;sat_f_Maneuver_forward = 1;sat_f_Out_S = -1
+f_In_N is high;sat_f_Out_W is high;>;sat_f_Maneuver_right = 1;sat_f_Out_W = -1
+f_In_E is high;sat_f_Out_N is high;>;sat_f_Maneuver_right = 1;sat_f_Out_N = -1
+f_In_E is high;sat_f_Out_E is high;>;sat_f_Maneuver_backward = 1;sat_f_Out_E = -1
+f_In_E is high;sat_f_Out_S is high;>;sat_f_Maneuver_left = 1;sat_f_Out_S = -1
+f_In_E is high;sat_f_Out_W is high;>;sat_f_Maneuver_forward = 1;sat_f_Out_W = -1
+f_In_S is high;sat_f_Out_N is high;>;sat_f_Maneuver_forward = 1;sat_f_Out_N = -1
+f_In_S is high;sat_f_Out_E is high;>;sat_f_Maneuver_right = 1;sat_f_Out_E = -1
+f_In_S is high;sat_f_Out_S is high;>;sat_f_Maneuver_backward = 1;sat_f_Out_S = -1
+f_In_S is high;sat_f_Out_W is high;>;sat_f_Maneuver_left = 1;sat_f_Out_W = -1
+f_In_W is high;sat_f_Out_N is high;>;sat_f_Maneuver_left = 1;sat_f_Out_N = -1
+f_In_W is high;sat_f_Out_E is high;>;sat_f_Maneuver_forward = 1;sat_f_Out_E = -1
+f_In_W is high;sat_f_Out_S is high;>;sat_f_Maneuver_right = 1;sat_f_Out_S = -1
+f_In_W is high;sat_f_Out_W is high;>;sat_f_Maneuver_backward = 1;sat_f_Out_W = -1

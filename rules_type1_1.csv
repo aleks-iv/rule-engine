@@ -1,0 +1,12 @@
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_right is high;f_Maneuver_mark is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_right_mark = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_forward is high;f_Maneuver_mark is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_forward_mark = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_left is high;f_Maneuver_mark is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_left_mark = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_backward is high;f_Maneuver_mark is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_backward_mark = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_right is high;f_Maneuver_dist is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_right_dist = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_forward is high;f_Maneuver_dist is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_forward_dist = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_left is high;f_Maneuver_dist is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_left_dist = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_backward is high;f_Maneuver_dist is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_backward_dist = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_right is high;f_Maneuver_azim is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_right_azim = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_forward is high;f_Maneuver_azim is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_forward_azim = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_left is high;f_Maneuver_azim is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_left_azim = 1;sat_f_Line_in = -1
+event_f_Line is high;sat_f_Line_in is high;f_Safe is high;sat_f_Maneuver_backward is high;f_Maneuver_azim is high;>;sat_f_Line_out = 1;sat_f_U_Maneuver_backward_azim = 1;sat_f_Line_in = -1

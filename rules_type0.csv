@@ -1,0 +1,15 @@
+sat_f_U_Maneuver_right_mark is high;sat_f_Line_out is high;>;U_Maneuver_right_mark = RUN;sat_f_U_Maneuver_right_mark = -1
+sat_f_U_Maneuver_forward_mark is high;sat_f_Line_out is high;>;U_Maneuver_forward_mark = RUN;sat_f_U_Maneuver_forward_mark = -1
+sat_f_U_Maneuver_left_mark is high;sat_f_Line_out is high;>;U_Maneuver_left_mark = RUN;sat_f_U_Maneuver_left_mark = -1
+sat_f_U_Maneuver_backward_mark is high;sat_f_Line_out is high;>;U_Maneuver_backward_mark = RUN;sat_f_U_Maneuver_backward_mark = -1
+sat_f_U_Maneuver_right_dist is high;sat_f_Line_out is high;>;U_Maneuver_right_dist = RUN;sat_f_U_Maneuver_right_dist = -1
+sat_f_U_Maneuver_forward_dist is high;sat_f_Line_out is high;>;U_Maneuver_forward_dist = RUN;sat_f_U_Maneuver_forward_dist = -1
+sat_f_U_Maneuver_left_dist is high;sat_f_Line_out is high;>;U_Maneuver_left_dist = RUN;sat_f_U_Maneuver_left_dist = -1
+sat_f_U_Maneuver_backward_dist is high;sat_f_Line_out is high;>;U_Maneuver_backward_dist = RUN;sat_f_U_Maneuver_backward_dist = -1
+sat_f_U_Maneuver_right_azim is high;sat_f_Line_out is high;>;U_Maneuver_right_azim = RUN;sat_f_U_Maneuver_right_azim = -1
+sat_f_U_Maneuver_forward_azim is high;sat_f_Line_out is high;>;U_Maneuver_forward_azim = RUN;sat_f_U_Maneuver_forward_azim = -1
+sat_f_U_Maneuver_left_azim is high;sat_f_Line_out is high;>;U_Maneuver_left_azim = RUN;sat_f_U_Maneuver_left_azim = -1
+sat_f_U_Maneuver_backward_azim is high;sat_f_Line_out is high;>;U_Maneuver_backward_azim = RUN;sat_f_U_Maneuver_backward_azim = -1
+sat_f_U_Moving_mark is high;sat_f_Line_in is high;>;U_Moving_mark = RUN;sat_f_U_Moving_mark = -1
+sat_f_U_Moving_dist is high;sat_f_Line_in is high;>;U_Moving_dist = RUN;sat_f_U_Moving_dist = -1
+sat_f_U_Moving_azim is high;sat_f_Line_in is high;>;U_Moving_azim = RUN;sat_f_U_Moving_azim = -1

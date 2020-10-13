@@ -1,0 +1,3 @@
+event_f_Line is high;sat_f_Line_out is high;f_Road_mark is high;>;sat_f_Line_out = -1;sat_f_U_Road_mark = 1;sat_f_Line_in = 1
+event_f_Line is high;sat_f_Line_out is high;f_Road_dist is high;>;sat_f_Line_out = -1;sat_f_U_Road_dist = 1;sat_f_Line_in = 1
+event_f_Line is high;sat_f_Line_out is high;f_Road_azim is high;>;sat_f_Line_out = -1;sat_f_U_Road_azim = 1;sat_f_Line_in = 1
